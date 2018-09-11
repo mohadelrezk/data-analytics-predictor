@@ -1,0 +1,5 @@
+search query,total_found,ARFFs found,path
+data_mixed.arff repo:AndersHqst/datamining language:ARFF,4,C:\ITU\Projects\data_mining\project\dataset_03\data_mixed.arff
+data_mixed.arff repo:AndersHqst/datamining language:ARFF,4,/Users/ahkj/data_mining/project/dataset_03/data_mixed.arff
+glass.arff repo:lenawtech/FSS16 language:ARFF,4,C:\Users\Oliver\Documents\FSS2014\Data Mining I\Exercise 4\glass.arff
+credit-g.arff repo:lenawtech/FSS16 language:ARFF,1,C:\Users\Oliver\Documents\FSS2014\Data Mining I\Exercise 4\credit-g.arff
