@@ -124,11 +124,5 @@ test/
 test/XML_PARSER.py
 rapidminer_files_from_op/
 *.*.bk
-
-
-kaggleExperiment/datasets/
-kaggleExperiment/results/
-kaggleExperiment/trials.py
-kaggleExperiment/util/
+*.pyc
 kaggleExperiment/venv-kaggle/
-
